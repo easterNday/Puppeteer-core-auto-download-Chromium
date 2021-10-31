@@ -1,10 +1,10 @@
-# Puppeteer-core auto download Chromiun README
+# Puppeteer-core auto download Chromium README
 
 This template just use the function `executablePath()` in `puppeteer-core` and then split it to obtain the infromation about platform and revision, then genarate a ***BrowserFetcher*** to initial download.
 
 ## Features
 
-Excute the command `Hello World` to activate the plugin and wait for the download finish, then excute the command `Puppeteer Show` to test ur Chromiun.
+Excute the command `Hello World` to activate the plugin and wait for the download finish, then excute the command `Puppeteer Show` to test ur Chromium.
 
 ![演示](https://cdn.jsdelivr.net/gh/easternDay/ReadMe.IMGS//动画.gif)
 
